@@ -330,8 +330,8 @@ ENV NETWORKING=vmxnet3
 ENV NOPICKER=false
 
 # dynamic RAM options for runtime
-ENV RAM=4
-# ENV RAM=max
+# ENV RAM=4
+ENV RAM=8
 # ENV RAM=half
 
 # The x and y coordinates for resolution.
